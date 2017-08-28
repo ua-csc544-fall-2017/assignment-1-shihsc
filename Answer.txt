@@ -1,0 +1,37 @@
+1. Recently, I am interested in data analysis. 
+This semester I am also taking machine learning.
+I would like to have more experience on dealing 
+with data via different approach.
+
+2. I think that I will learn couple method to 
+deal with data via in principle and in practice.
+
+3. C++, R.
+
+4. C++.
+
+5. No. 
+
+6. The largest dataset I have had deal with is a 
+net work problem. We would like to find a minimal 
+length path or a minimal cost path. The tools we 
+use is C++. We know some algorithms in optimal research.
+We wrote them as C++ program to get answers.
+
+7. A graph in biostatistics. It shows that which gene 
+relates to canser.
+
+8. The one we saw in the first class.
+
+9. I do not have to many programming experience so 
+I would rate myself 40%.
+
+10. My major is math so I would rate 100%.
+
+11. No, I have not used it before.
+
+12. I never used Git.
+
+13. I never used GitHub.
+
+14. Bridge, hiking, math, jobmarket.
